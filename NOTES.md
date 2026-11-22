@@ -73,5 +73,8 @@ overtime Sat night), BepiColombo science phase (Apr 2027).
 
 ## Submission
 
-- NOT submitted. Awaiting Joni's "Setuju" on the exact entry.
-- Entries close 23 Nov 2026 07:00 WIB.
+- SUBMITTED 22 Nov ~09:38 WIB on Joni's "Setuju semua": submission `01a2011e-6e5f-7387-83ec-55c2bf830535`, commit `cac69d92506e8dce56f3fe0cbc72b5fe9d4d0986`.
+- Kit check before submit: `ok: true`, `failed: []` (21 sessions, 1302 messages; thinking_reproduces 92.1% authored).
+- Status after submit: "checked" — passed every validity check, grading on the dev phase under way.
+- Entries close 23 Nov 2026 07:00 WIB; results 7 Dec 2026 08:00 WIB.
+- Claim code: stored only in `~/.config/makefun/news-image-20261121-submission.json` (0600), never in the repo.
